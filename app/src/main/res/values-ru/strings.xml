@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_contact_name">Контактное имя</string>
+    <string name="app_name">Моё промо приложение</string>
+    <string name="hint_contact_number">Контактный номер телефона</string>
+    <string name="hint_display_name">Отображаемое имя</string>
+    <string name="check_box_include_beginner">Включить \'Новичок\'</string>
+    <string name="check_box_immediate_start">Немедленно</string>
+    <string name="hint_available_from_date">Доступно с</string>
+    <string name="button_text_preview_message">Предварительное сообщение</string>
+    <string name="date_11_05_2023">11/05/2023</string>
+    <string name="button_text_send">Отправить</string>
+
+</resources>
